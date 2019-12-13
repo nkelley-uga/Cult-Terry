@@ -10,7 +10,7 @@ If that didn’t make any sense, read on!
     2. scroll down a little until you see some OS tabs, and download buttons
     3. download the 3.x distribution, python 2 isn't relevant
     4. maybe make yourself a coffee or a snack, you deserve it
-    5. to run: open a terminal and type "jupyter lab"
+    5. to run: open the Anaconda app, or open a terminal and type "jupyter lab"
 2. Make a github account
     1. there aren't any steps, this one is on you
 3. Fork
