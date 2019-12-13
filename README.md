@@ -2,6 +2,10 @@
 
 ---
 
+MSBA people: let me know if there are any specific things you want me to work in here. Planned stuff is: functions-monte carlo, regression, classification, clustering, NLP.
+
+---
+
 #### Quickstart:
 If you’ve already forked this and are reading it in your favorite IDE then skip to whichever section you’d like my 2 cents on.  
 If that didn’t make any sense, read on!  
@@ -32,6 +36,7 @@ If that didn’t make any sense, read on!
 1. Data Structures: overview of ways to structure data, and some elementary programming things
 2. Data Framing: overview of dataframes, “data munging,” pandas, and numpy
 3. Data Scraping: Selenium, accessing data that can't just be downloaded
+4. Functions: class-derived example of a monte carlo simulation
 
 ---
 
