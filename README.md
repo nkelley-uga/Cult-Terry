@@ -18,8 +18,8 @@ If that didn’t make any sense, read on!
 4. Clone
     1. on the right side, copy *HTTPS clone URL* 
     2. decide where you want to stash it (maybe in a folder called school in /Documents)
-    3. open terminal and change directory to the location ("\\$ cd /Documents/school")
-    4. enter and run "\\$ git clone *HTTPS*"
+    3. open terminal and change directory to the location ("\$ cd /Documents/school")
+    4. enter and run "\$ git clone *HTTPS*"
 5. Enjoy!
 
 ---
