@@ -2,7 +2,9 @@
 
 ---
 
-MSBA people: let me know if there are any specific things you want me to work in here. Planned stuff is: functions-monte carlo, regression, classification, clustering, NLP.
+MSBA people: let me know if there are any specific things you want me to work in here. 
+
+Planned stuff is: regression (probably 2), classification (normal and anomaly detection), clustering , NLP (at least 2).
 
 ---
 
@@ -37,6 +39,7 @@ If that didn’t make any sense, read on!
 2. Data Framing: overview of dataframes, “data munging,” pandas, and numpy
 3. Data Scraping: Selenium, accessing data that can't just be downloaded
 4. Functions: class-derived example of a monte carlo simulation
+5. NLP-1: word clouds, and easy NLP
 
 ---
 
