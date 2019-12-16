@@ -2,12 +2,6 @@
 
 ---
 
-MSBA people: let me know if there are any specific things you want me to work in here. 
-
-Planned stuff is: regression (probably 2), classification (normal and anomaly detection), clustering , NLP (at least 2).
-
----
-
 #### Quickstart:
 If you’ve already forked this and are reading it in your favorite IDE then skip to whichever section you’d like my 2 cents on.  
 If that didn’t make any sense, read on!  
@@ -16,7 +10,7 @@ If that didn’t make any sense, read on!
     2. scroll down a little until you see some OS tabs, and download buttons
     3. download the 3.x distribution, python 2 isn't relevant
     4. maybe make yourself a coffee or a snack, you deserve it
-    5. to run: open the Anaconda app, or open a terminal and type "jupyter lab"
+    5. to run: open a terminal and type "jupyter lab"
 2. Make a github account
     1. there aren't any steps, this one is on you
 3. Fork
@@ -24,8 +18,8 @@ If that didn’t make any sense, read on!
 4. Clone
     1. on the right side, copy *HTTPS clone URL* 
     2. decide where you want to stash it (maybe in a folder called school in /Documents)
-    3. open terminal and change directory to the location ("\$ cd /Documents/school")
-    4. enter and run "\$ git clone *HTTPS*"
+    3. open terminal and change directory to the location ("\\$ cd /Documents/school")
+    4. enter and run "\\$ git clone *HTTPS*"
 5. Enjoy!
 
 ---
@@ -38,8 +32,6 @@ If that didn’t make any sense, read on!
 1. Data Structures: overview of ways to structure data, and some elementary programming things
 2. Data Framing: overview of dataframes, “data munging,” pandas, and numpy
 3. Data Scraping: Selenium, accessing data that can't just be downloaded
-4. Functions: class-derived example of a monte carlo simulation
-5. NLP-1: word clouds, and easy NLP
 
 ---
 
