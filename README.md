@@ -4,7 +4,16 @@
 
 MSBA people: let me know if there are any specific things you want me to work in here. 
 
-Planned stuff is: regression (probably 2), classification (normal and anomaly detection), clustering , NLP (at least 2).
+Planned stuff is: 
+* Intermediate:
+    1. classification-1
+    2. clustering
+* Intermediate +:
+    1. regression-2
+    2. classification-2
+    3. NLP-2
+* Misc:
+    1. AWS
 
 ---
 
@@ -43,6 +52,7 @@ If that didn’t make any sense, read on!
 
 * Intermediate -
 5. NLP-1: word clouds, intro to NLP and sklearn
+6. Regression-1: overview of regression for predictive modeling, and intro to classes
 
 ---
 
@@ -62,3 +72,12 @@ There are myriad sources free and paid that you can learn all about python from.
 - [youtube](https://www.youtube.com/)
 
 If you end up coding regularly, you'll end up on stack ([overflow](https://stackoverflow.com/), [exchange](https://stackexchange.com/), [abuse](https://stackabuse.com/)).
+
+---
+
+#### Helpful Cheatsheets:
+- [markdown general](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [markdown math](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
+- [strftime reference](https://strftime.org/)
+- [github](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [regex](https://www.debuggex.com/cheatsheet/regex/python)
