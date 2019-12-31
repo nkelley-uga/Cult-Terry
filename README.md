@@ -6,8 +6,7 @@ MSBA people: let me know if there are any specific things you want me to work in
 
 Planned stuff is: 
 * Intermediate:
-    1. classification-1
-    2. clustering
+    1. clustering
 * Intermediate +:
     1. regression-2
     2. classification-2
@@ -53,6 +52,7 @@ If that didn’t make any sense, read on!
 * Intermediate -
 5. NLP-1: word clouds, intro to NLP and sklearn
 6. Regression-1: overview of regression for predictive modeling, and intro to classes
+7. Classification-1: intro to classification with nearest neighbors
 
 ---
 
