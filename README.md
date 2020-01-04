@@ -1,4 +1,4 @@
-## A Really Okay Intro to Python
+# A Really Okay Intro to Python
 
 ---
 
@@ -8,15 +8,34 @@ Planned stuff is:
 * Intermediate +:
     1. regression-2
     2. classification-2
-    3. NLP-2
 * Misc:
     1. AWS
 
 ---
 
+### Contents:
+
+*Generally ordered by complexity. Knowledge and installs will build (i.e. if you skip 2. then I assume you're comfortable with pandas).*
+
+* Beginner
+1. Data Structures: overview of ways to structure data, and some elementary programming things
+2. Data Framing: overview of dataframes, “data munging,” pandas, and numpy
+3. Data Scraping: Selenium, accessing data that can't just be downloaded
+4. Functions: class-derived example of a monte carlo simulation
+
+* Intermediate
+5. NLP-1: word clouds, intro to NLP and sklearn
+6. Regression-1: overview of regression for predictive modeling, and intro to classes
+7. Classification-1: intro to classification with nearest neighbors
+8. Clustering: intro to K-Means clustering
+
+* Intermediate +
+9. NLP-2: text preprocessing, document similarity, and a project
+
+---
+
 #### Quickstart:
-If you’ve already forked this and are reading it in your favorite IDE then skip to whichever section you’d like my 2 cents on.  
-If that didn’t make any sense, read on!  
+  
 1. Download Anaconda
     1. [click here](https://www.anaconda.com/distribution/)
     2. scroll down a little until you see some OS tabs, and download buttons
@@ -37,32 +56,16 @@ If that didn’t make any sense, read on!
 
 ---
 
-#### Contents:
+### Disclaimer:
 
-*generally ordered by complexity. knowledge/installs will build (i.e. if you skip 2. then I assume you're comfortable with pandas)*
-
-* Beginner -
-1. Data Structures: overview of ways to structure data, and some elementary programming things
-2. Data Framing: overview of dataframes, “data munging,” pandas, and numpy
-3. Data Scraping: Selenium, accessing data that can't just be downloaded
-4. Functions: class-derived example of a monte carlo simulation
-
-* Intermediate -
-5. NLP-1: word clouds, intro to NLP and sklearn
-6. Regression-1: overview of regression for predictive modeling, and intro to classes
-7. Classification-1: intro to classification with nearest neighbors
-8. Clustering: intro to K-Means clustering
-
----
-
-#### Disclaimer:
 - I’m not the best - or even particularly good - at python.
 - This won’t be comprehensive... think of it more like a shove into a pool, except the pool is full of error messages and the water isn’t real.
 - For the spelling and grammar slips. Sorry!
 
 ---
 
-#### Alternatives:
+### Alternatives:
+
 There are myriad sources free and paid that you can learn all about python from. Some of those are:
 
 - [udemy](https://www.udemy.com/courses/search/?src=ukw&q=python)
@@ -74,7 +77,10 @@ If you end up coding regularly, you'll end up on stack ([overflow](https://stack
 
 ---
 
-#### Helpful Cheatsheets:
+### Helpful Cheatsheets:
+
+Hooray!
+
 - [markdown general](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [markdown math](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
 - [strftime reference](https://strftime.org/)
